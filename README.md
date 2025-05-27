@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 currently working on my own webpage <br>🧑🏻‍🎓 studying software engineering at Sir Syed University <br>🧑🏻‍💻 web developer 
+🌐 currently working on my own webpage <br>🧑🏻‍🎓 undergraduate software engineer  <br>🧑🏻‍💻 web developer 
 
 
 ## 🌐 Socials:
