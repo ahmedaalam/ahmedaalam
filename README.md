@@ -1,5 +1,5 @@
 # Hello world!, I'm Ahmed, a Web Developer 👋🏻:
-🌐 currently working on my own webpage <br>🧑🏻‍🎓 undergraduate software engineer  <br>🧑🏻‍💻 web developer 
+🌐 currently working on my own webpage <br>🧑🏻‍🎓 undergraduate software engineer  <br>🧑🏻‍💻 web & app developer 
 
 
 ## 🌐 Socials:
