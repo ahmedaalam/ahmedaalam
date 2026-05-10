@@ -1,5 +1,5 @@
 # Hey there 👋
-Hey there 👋  
+  
 I'm Ahmed, a Software Engineer based in Pakistan.
 
 I specialize in frontend development, building modern, responsive, and performance-driven web applications using Next.js, React, JavaScript, and Tailwind CSS, with smooth UI animations powered by Framer Motion.
