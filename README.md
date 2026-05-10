@@ -1,5 +1,5 @@
-# Hello world!, I'm Ahmed, a Passionate Web Developer 👋🏻:
- Currently working on my own webpage <br> Undergraduate Software Engineer  <br>Web & App Developer 
+# Hey there 👋🏻:
+ I'm Ahmed, a software engineer based in Pakistan <br> Currently working on frontend stuff-
 
 
 ## 🌐 Socials:
