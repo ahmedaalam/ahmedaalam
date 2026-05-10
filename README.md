@@ -1,5 +1,5 @@
 # Hey there 👋
- I'm Ahmed, a software engineer based in Pakistan. <br>I mostly work on frontend stuff - Next, React, JavaScript, Tailwind and a bit of animation with Framer Motion. <br> i also use Figma for UI design and Postman for api testing.
+ I'm Ahmed, a software engineer based in Pakistan. <br> <br>I mostly work on frontend stuff - Next, React, JavaScript, Tailwind and a bit of animation with Framer Motion. <br> i also use Figma for UI design and Postman for api testing.
 
 
 ## 🌐 Socials:
