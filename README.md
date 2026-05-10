@@ -2,7 +2,7 @@
   
 I'm Ahmed, a Software Engineer based in Pakistan.
 
-I specialize in frontend development, building modern, responsive, and performance-driven web applications using Next.js, React, JavaScript, and Tailwind CSS, with smooth UI animations powered by Framer Motion.
+I specialize in frontend development - Next, React, JavaScript, and Tailwind, and a bit of animation with Framer Motion.
 
 I also work with Figma for UI design and Postman for API testing.
 
