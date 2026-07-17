@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there 
   
 I'm Ahmed, a Software Engineer based in Pakistan.
 
