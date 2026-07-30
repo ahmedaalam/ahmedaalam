@@ -2,7 +2,7 @@
   
 I am Ahmed, a Software Engineer based in Pakistan.
 
-I specialize in full-stack development using the MERN stack — React.js, Next.js, JavaScript, and Tailwind, and a bit of animation with Framer Motion. 
+I specialize in full-stack development using the MERN stack — building modern frontend interfaces with React, Next.js, JavaScript, and Tailwind, and developing robust backend systems with Node.js, Express.js, and MongoDB.and a bit of animation with Framer Motion. 
 
 I also work with Figma for UI design and Postman for API testing.
 
