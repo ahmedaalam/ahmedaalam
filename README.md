@@ -1,6 +1,6 @@
 # Hey there 
   
-I'm Ahmed, a Software Engineer based in Pakistan.
+I am Ahmed, a Software Engineer based in Pakistan.
 
 I specialize in frontend development — Next, React, JavaScript, and Tailwind, and a bit of animation with Framer Motion.
 
