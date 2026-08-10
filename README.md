@@ -2,7 +2,11 @@
 
 I'm Ahmed, a software engineer based in Pakistan.
 
+I work across the full stack — mainly with React, Next.js, and Tailwind on the frontend, and Node.js, Express, and MongoDB on the backend, along with a bit of animation using Framer Motion.
 
+I also use Figma for UI design and Postman for API testing.
+
+This profile is where I share my projects, experiments, and things I’m currently building — all from scratch, no copy/paste templates.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
