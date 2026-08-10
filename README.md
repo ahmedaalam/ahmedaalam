@@ -14,10 +14,28 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+
+  <!-- Backend -->
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+  <!-- Express (FORCED WHITE) -->
+  <img align="center" alt="Express" height="30" width="40"
+       style="filter: invert(1);"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+
+  <!-- Database -->
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
+  <!-- Tools -->
+  <img align="center" alt="GitHub" height="30" width="40"
+       style="filter: invert(1);"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+  <img align="center" alt="Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
+
+  <!-- Other -->
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
